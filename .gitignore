@@ -1,0 +1,18 @@
+# Compiled binaries
+cafe
+cafe.exe
+*.o
+*.obj
+*.pdb
+*.ilk
+
+# Build folders
+build/
+out/
+bin/
+.vscode/
+.idea/
+
+# Mac & Windows noise
+.DS_Store
+Thumbs.db
